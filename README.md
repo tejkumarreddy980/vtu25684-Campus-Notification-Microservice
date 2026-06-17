@@ -12,7 +12,7 @@ A responsive frontend interface built with React and Vite to manage, broadcast, 
 ## 🛠️ Tech Stack
 
 * **Frontend Framework:** React 19
-* **Build Tool:** Vite
+* **Build Tool:** vscode
 * **Linting & Quality:** ESLint
 
 ## 📦 Getting Started
